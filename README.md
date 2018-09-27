@@ -24,3 +24,6 @@
 4、锁屏的时候验证可以直接使用
 
     JJGestureScreen.shared.show()
+
+## 示例
+![](https://github.com/JJCrystalForest/JJGesture/blob/master/example.gif)
