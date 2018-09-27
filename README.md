@@ -26,4 +26,11 @@
     JJGestureScreen.shared.show()
 
 ## 示例
-![](https://github.com/JJCrystalForest/JJGesture/blob/master/example.gif)
+### 设置手势密码
+![](https://github.com/JJCrystalForest/JJGesture/blob/master/setting.gif)
+### 验证手势密码
+![](https://github.com/JJCrystalForest/JJGesture/blob/master/verify.gif)
+### 修改手势密码
+![](https://github.com/JJCrystalForest/JJGesture/blob/master/change.gif)
+### 忘记手势密码
+![](https://github.com/JJCrystalForest/JJGesture/blob/master/forget.gif)
